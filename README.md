@@ -43,4 +43,6 @@ Nicely done.
 **Important:** Don't forget to include a `WHERE` clause when using `UPDATE` unless you want to update every row in the table!
 
 
-TODO: ADD EXTRA PRACTICE
+## Resources
+
+*[Updating, Creating, and Deleting Data](http://www.padjo.org/tutorials/databases/sql-update-and-delete/)
