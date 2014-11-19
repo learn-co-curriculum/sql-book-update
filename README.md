@@ -45,4 +45,4 @@ Nicely done.
 
 ## Resources
 
-*[Updating, Creating, and Deleting Data](http://www.padjo.org/tutorials/databases/sql-update-and-delete/)
+* [Updating, Creating, and Deleting Data](http://www.padjo.org/tutorials/databases/sql-update-and-delete/)
