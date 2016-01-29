@@ -47,4 +47,4 @@ Nicely done.
 
 * [Updating, Creating, and Deleting Data](http://www.padjo.org/tutorials/databases/sql-update-and-delete/)
 
-<a href='https://learn.co/lessons/sql-book-update' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/sql-book-update' title='Update'>Update</a> on Learn.co and start learning to code for free.</p>
